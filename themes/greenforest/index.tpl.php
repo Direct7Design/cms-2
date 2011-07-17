@@ -13,13 +13,10 @@
 <div id="wrapper">
 	
 	<div id="menu">
-		<ul>
+		<ul class="edit-menu">
 			<li class="current_page_item"><a href="#">Home</a></li>
 			<li><a href="#">Blog</a></li>
 			<li><a href="#">Photos</a></li>
-			<li><a href="#">About</a></li>
-			<li><a href="#">Links</a></li>
-			<li><a href="#">Contact</a></li>
 		</ul>
 	</div>
 	<!-- end #menu -->
@@ -84,7 +81,7 @@
 				</li>
 				<li>
 					<h2>Categories</h2>
-					<ul>
+					<ul class="edit-menu">
 						<li><a href="#">Aliquam libero</a></li>
 						<li><a href="#">Consectetuer adipiscing elit</a></li>
 						<li><a href="#">Metus aliquam pellentesque</a></li>
@@ -95,7 +92,7 @@
 				</li>
 				<li>
 					<h2>Blogroll</h2>
-					<ul>
+					<ul class="edit-menu">
 						<li><a href="#">Aliquam libero</a></li>
 						<li><a href="#">Consectetuer adipiscing elit</a></li>
 						<li><a href="#">Metus aliquam pellentesque</a></li>
@@ -106,7 +103,7 @@
 				</li>
 				<li>
 					<h2>Archives</h2>
-					<ul>
+					<ul class="edit-menu">
 						<li><a href="#">Aliquam libero</a></li>
 						<li><a href="#">Consectetuer adipiscing elit</a></li>
 						<li><a href="#">Metus aliquam pellentesque</a></li>

@@ -1,3 +1,5 @@
 name = Greenforest
 
 stylesheets[] = style.css
+
+scripts[] = js/greenforest.js
